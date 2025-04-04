@@ -3,7 +3,7 @@
 Meu nome é `José Henrique Sant Ana Arruda` , tenho `17 anos` e adoro tecnologia. Atualmente estudo no `Centro Universitário - Senac Nações Unidas`, no curso de `Informática` integrado ao Ensino Médio e estou no 3° ano. Além disso, estou cursando o `Técnico em Desenvolvimento de Sistemas` na `Escola Senai Anchieta e Faculdade Senai São Paulo - Campus Anchieta` Pelo programa de `Jovem Aprendiz no Metrô de São Paulo`.
  
 <div align="center">
-<a href="https://tenor.com/"><img src="https://th.bing.com/th/id/OIP.Kz12vi981Hvi67h4Co77swHaD4?rs=1&pid=ImgDetMain" width="400" height="230" border="0" alt="https://tenor.com/" ></a> 
+<a href="https://tenor.com/"><img src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"width="400" height="230" border="0" alt="https://tenor.com/" ></a> 
 <br>
 </div>
  
