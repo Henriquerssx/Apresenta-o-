@@ -3,7 +3,7 @@
 Meu nome é `José Henrique Sant Ana Arruda` , tenho `17 anos` e adoro tecnologia. Atualmente estudo no `Centro Universitário - Senac Nações Unidas`, no curso de `Informática` integrado ao Ensino Médio e estou no 3° ano. Além disso, estou cursando o `Técnico em Desenvolvimento de Sistemas` na `Escola Senai Anchieta e Faculdade Senai São Paulo - Campus Anchieta` Pelo programa de `Jovem Aprendiz no Metrô de São Paulo`.
  
 <div align="center">
-<a href="https://tenor.com/"><img src="https://user-images.githubusercontent.com/101676527/219717149-5affb60c-41a3-4c14-9b0c-694b512144f2.gif" width="400" height="230" border="0" alt="https://tenor.com/" ></a> 
+<a href="https://tenor.com/"><img src="https://th.bing.com/th/id/OIP.Kz12vi981Hvi67h4Co77swHaD4?rs=1&pid=ImgDetMain" width="400" height="230" border="0" alt="https://tenor.com/" ></a> 
 <br>
 </div>
  
@@ -23,11 +23,3 @@ Meu nome é `José Henrique Sant Ana Arruda` , tenho `17 anos` e adoro tecnologi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Levantamento de Requisitos](https://img.shields.io/badge/Levantamento%20de%20Requisitos-297c04?style=for-the-badge&logo=levantamentoderequisitos&logoColor=white)
  
-## Minhas Estatísticas no GitHub
- 
-<div align="center">
-<a href="https://github.com/Henriquerssx">
-<img  height="150em" src="https://github-readme-stats.vercel.app/api?username=JoseHenrique&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseHenrique&layout=compact&langs_count=7&theme=dracula"/>
-</a>
-</div>
